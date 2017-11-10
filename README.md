@@ -40,3 +40,4 @@ Go to [class](https://class.coursera.org/ml-008/).
 * [Wolfram Alpha for plotting and understanding math functions](http://www.wolframalpha.com/input/?i=x+x^2+x^2*y+x^2*y^2+x^2*y^3+x^3*y+x^3*y^3)
 * [MLlib tutorials at Amp Camp](http://ampcamp.berkeley.edu/5/)
 * [Talk on MLlib by Ameet Talwalkar](https://www.youtube.com/watch?v=qSPqh7DiREM)
+* [Course Exercise Solutions using Scikit-Learn](https://github.com/krasserm/machine-learning-notebooks)
